@@ -1,6 +1,7 @@
 # INTRODUCTION
 TodoGent is a application prototype based out of pretrained models from huggingfaces
-I has features to act as a personal assistent for your tasks
+It has features to act as a personal assistent for your tasks. Please use personal tokens to access 
+huggingfaces models
 
 # FEATURES TO BE IMPLEMENTED:
 - TASK AWARENESS: fine turning the BERT model to understand the task related stuff
