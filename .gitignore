@@ -1,0 +1,4 @@
+# Ignore folder
+service/en/
+service/env
+.env

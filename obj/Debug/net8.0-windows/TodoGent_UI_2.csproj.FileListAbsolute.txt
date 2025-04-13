@@ -1,0 +1,33 @@
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\bin\Debug\net8.0-windows\TodoGent_UI_2.exe
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\bin\Debug\net8.0-windows\TodoGent_UI_2.deps.json
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\bin\Debug\net8.0-windows\TodoGent_UI_2.runtimeconfig.json
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\bin\Debug\net8.0-windows\TodoGent_UI_2.dll
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\bin\Debug\net8.0-windows\TodoGent_UI_2.pdb
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.Form1.resources
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.csproj.GenerateResource.cache
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.AssemblyInfoInputs.cache
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.AssemblyInfo.cs
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.csproj.CoreCompileInputs.cache
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.dll
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\refint\TodoGent_UI_2.dll
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.pdb
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.genruntimeconfig.cache
+C:\Users\steos\source\repos\TodoGent_UI_2\TodoGent_UI_2\obj\Debug\net8.0-windows\ref\TodoGent_UI_2.dll
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\bin\Debug\net8.0-windows\TodoGent_UI_2.exe
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\bin\Debug\net8.0-windows\TodoGent_UI_2.deps.json
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\bin\Debug\net8.0-windows\TodoGent_UI_2.runtimeconfig.json
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\bin\Debug\net8.0-windows\TodoGent_UI_2.dll
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\bin\Debug\net8.0-windows\TodoGent_UI_2.pdb
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.Form1.resources
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.csproj.GenerateResource.cache
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.AssemblyInfoInputs.cache
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.AssemblyInfo.cs
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.csproj.CoreCompileInputs.cache
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.dll
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\refint\TodoGent_UI_2.dll
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.pdb
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.genruntimeconfig.cache
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\ref\TodoGent_UI_2.dll
+D:\Work\TodoGent C# Proj\C#\TodoGent_UI_2\obj\Debug\net8.0-windows\TodoGent_UI_2.sourcelink.json
