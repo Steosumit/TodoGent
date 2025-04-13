@@ -1,0 +1,6 @@
+pandas
+ipykernel
+torch
+flask
+dotenv
+
